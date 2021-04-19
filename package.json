@@ -1,0 +1,23 @@
+{
+  "name": "deploy-gcloud-endpoints",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QINNO-LABS/deploy-gcloud-endpoints.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QINNO-LABS/deploy-gcloud-endpoints/issues"
+  },
+  "homepage": "https://github.com/QINNO-LABS/deploy-gcloud-endpoints#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.7",
+    "@actions/github": "^4.0.0"
+  }
+}
