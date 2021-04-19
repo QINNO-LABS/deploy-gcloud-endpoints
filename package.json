@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "ncc build index.js --license licenses.txt && rm -rf node_modules/*",
+    "build": "npm i && ncc build index.js --license licenses.txt && rm -rf node_modules/*",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
